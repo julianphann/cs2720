@@ -1,0 +1,20 @@
+PhanJulian_assignment1:
+total 48
+drwxr-xr-x. 2 myid  130 Sep 22 11:11 bin
+-rw-r--r--. 1 myid   17 Sep 22 11:09 input.txt
+-rw-r--r--. 1 myid  842 Sep 22 11:08 ItemType.java
+-rw-r--r--. 1 myid 6345 Sep 22 16:08 LinkedListDriver.java
+-rw-r--r--. 1 myid 6345 Sep 22 16:07 LinkedListDriver.java~
+-rw-r--r--. 1 myid 1122 Sep 22 11:07 NodeType.java
+-rw-r--r--. 1 myid 1072 Sep 22 15:48 README.txt
+-rw-r--r--. 1 myid    0 Sep 22 16:10 rec3282
+-rw-r--r--. 1 myid 7201 Sep 22 16:02 SortedLinkedList.java
+-rw-r--r--. 1 myid 7231 Sep 22 15:56 SortedLinkedList.java~
+
+PhanJulian_assignment1/bin:
+total 20
+-rw-r--r--. 1 myid  721 Sep 22 16:08 ItemType.class
+-rw-r--r--. 1 myid 4520 Sep 22 16:08 LinkedListDriver.class
+-rw-r--r--. 1 myid  572 Sep 22 16:08 NodeType.class
+-rw-r--r--. 1 myid 3352 Sep 22 16:08 SortedLinkedList.class
+/home/myid/jnp71386/cs2720/assignment1/PhanJulian_assignment1:/home/myid/csci-2720b
